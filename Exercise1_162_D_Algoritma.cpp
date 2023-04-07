@@ -27,8 +27,9 @@ void selectionSort(int n) {
 		FHmin_index = i;
 		for (int j = i + 1; j < n; j++) {
 			if (arr[j] < arr[FHmin_index]) {
-
+				FHmin_index = j;
 			}
 		}
+		swap(arr[i], arr[FHmin_index]);
 	}
 }
