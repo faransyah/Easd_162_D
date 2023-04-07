@@ -47,4 +47,7 @@ int main() {
 	cout << "Masukkan jumlah data: ";
 	cin >> n;
 	inputData(n);
+	selectionSort(n);
+	display(n);
+	return 0;
 }
