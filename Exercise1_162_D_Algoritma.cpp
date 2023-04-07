@@ -36,5 +36,7 @@ void selectionSort(int n) {
 
 void display(int n) {
 	cout << "Data yang telah di urutkan" << endl;
+	for (int i = 0; i < n; i++) {
 
+	}
 }
