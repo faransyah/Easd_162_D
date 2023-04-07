@@ -45,5 +45,6 @@ void display(int n) {
 int main() {
 	int n;
 	cout << "Masukkan jumlah data: ";
-
+	cin >> n;
+	inputData(n);
 }
