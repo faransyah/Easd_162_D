@@ -8,7 +8,7 @@
 #include <iostream>
 using namespace std;
 
-const int MAX_SIZE = 48; 
+const int MAX_SIZE = 162;
 int arr[MAX_SIZE];
 
 
