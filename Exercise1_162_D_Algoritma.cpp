@@ -9,3 +9,9 @@
 using namespace std;
 
 const int MAX_SIZE = 48; 
+int arr[MAX_SIZE];
+
+
+void inputData(int n) {
+
+}
