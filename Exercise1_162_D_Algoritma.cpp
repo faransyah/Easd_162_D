@@ -33,3 +33,8 @@ void selectionSort(int n) {
 		swap(arr[i], arr[FHmin_index]);
 	}
 }
+
+void display(int n) {
+	cout << "Data yang telah di urutkan" << endl;
+
+}
