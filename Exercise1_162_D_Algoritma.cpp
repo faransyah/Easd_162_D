@@ -13,5 +13,12 @@ int arr[MAX_SIZE];
 
 
 void inputData(int n) {
+	cout << "Masukkan " << n << " data:" << endl;
+	for (int i = 0; i < n; i++) {
+		cin >> arr[i];
 
+	}
 }
+
+
+
