@@ -41,3 +41,7 @@ void display(int n) {
 	}
 	cout << endl;
 }
+
+int main() {
+
+}
