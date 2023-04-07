@@ -21,4 +21,10 @@ void inputData(int n) {
 }
 
 
-
+void selectionSort(int n) {
+	int i, FHmin_index;
+	for (int i = 0; i < n; i++) {
+		FHmin_index = i;
+		
+	}
+}
